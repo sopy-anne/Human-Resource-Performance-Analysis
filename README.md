@@ -13,6 +13,12 @@ The analysis explores:
 
 This provides actionable insights that support informed decision-making, improve employee engagement, strengthen retention strategies, and align workforce planning with organizational objectives.
 
+## Data Cleaning and Analysis Process
+
+- Data collected was cleaned and transformed with Microsoft Excel 
+- The key analysis involved measures of central tendency to summarise the data and identify the average and patterns of the key variables in the dataset.
+- The data was visualised using PowerBI
+  
 ## Key Findings of the analysis 
 
 #### Overview of Total Workforce
@@ -46,6 +52,25 @@ This provides actionable insights that support informed decision-making, improve
 
 - Employees with a balanced work-life balance are top performers
 - However, a few of the employees are recoreded poor work-life balance.
-- Majority of the employees doing overtime recorded moderate work-life life, while employees with poor work-life balance rarely do 
+- 23% of current employees did overtime. 
+- Many employees with overtime are high performers with work-life balance, indicating that the burnout does nto influence the employees.
 
-  
+Here is the Darshboard of the HR analytics
+
+![](https://github.com/sopy-anne/Human-Resource-Performance-Analysis/blob/main/HR%20Analtytics%20Dash%201.png)
+
+![](https://github.com/sopy-anne/Human-Resource-Performance-Analysis/blob/main/HR%20Analytics%20Dash%202.png)
+
+## Recommendations
+
+Based on the identified insights from this analysis, the recommendations include: 
+
+- Improve Retention of At-Risk Employees: Focus on younger employees, low-income earners, and long-distance commuters. Offer relocation support, transport allowances, or hybrid working options.
+
+- Review Compensation & Promotion Policies: Prioritize high-performing employees with 4+ years in the same role for salary review. Introduce transparent promotion pathways and mentorship programs.
+
+## Conclusion
+
+While the performance of the employees are on the average, it is important the the organisation look into promotion and compensation policies to reduce attrition and continue to maintain high retention. 
+
+Connect with me on LinkedIn: 
