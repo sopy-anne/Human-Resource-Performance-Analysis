@@ -15,7 +15,7 @@ This provides actionable insights that support informed decision-making, improve
 
 ## Data Cleaning and Analysis Process
 
-- Data collected was cleaned and transformed with Microsoft Excel 
+- Data collected was cleaned and transformed with Microsoft Excel, using VLookup and IF functions. 
 - The key analysis involved measures of central tendency to summarise the data and identify the average and patterns of the key variables in the dataset.
 - The data was visualised using PowerBI
   
